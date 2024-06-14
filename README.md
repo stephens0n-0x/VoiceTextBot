@@ -8,7 +8,7 @@ A Telegram bot that handles voice messages and text prompts. Users are assigned 
 - `voice/`: Directory for storing voice recordings.
 - `texts/`: Directory for storing text messages.
 - `books/`: Directory for storing book files.
-- `scraped_last_2.txt`: Sample text file containing prompts for users.
+- `your_text_file.txt`: Sample text file containing prompts for users.
 
 ## Setup
 
